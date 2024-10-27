@@ -98,7 +98,6 @@ const styles = StyleSheet.create({
         backgroundColor: Colors.white,
         padding: 16,
         borderRadius: 10,
-        shadowColor: "#171717",
     },
     fillBtn: {
         backgroundColor: Colors.primaryColor,
