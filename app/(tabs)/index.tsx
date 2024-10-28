@@ -1,12 +1,14 @@
 import Colors from "@/constants/Colors"
 import { Ionicons } from "@expo/vector-icons"
 import { Stack } from "expo-router"
-import { Image, StyleSheet, Text, TextInput, TouchableOpacity, View } from "react-native"
+import { Image, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from "react-native"
 import {useHeaderHeight} from "@react-navigation/elements"
 import CategoryButton from "@/components/CategoryButton"
 import { useState } from "react"
 import Listings from "@/components/Listings"
 import ListingData from "@/data/destination.json"
+import GroupListing from "@/components/GroupListing"
+import groupData from "@/data/groups.json"
 
 const Page = () => {
     const headerHeight = useHeaderHeight()
@@ -60,6 +62,7 @@ const Page = () => {
         )
       }} />
       <View style={[styles.container, {paddingTop: headerHeight}]}>
+        <ScrollView showsVerticalScrollIndicator={false}>
         <Text style={
             styles.headingTxt
         }>hello welcome to my travel app
@@ -80,8 +83,13 @@ const Page = () => {
                 <Ionicons name="options" size={28} color={Colors.white}  />
             </TouchableOpacity>
         </View>
+
         <CategoryButton onCategoryChange={onCategoryChange} />
+
         <Listings listingData={ListingData} category={category} />
+
+        <GroupListing listings={groupData} />
+        </ScrollView>
       </View>
         </>
     )
