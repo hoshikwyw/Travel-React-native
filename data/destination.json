@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1",
+        "name": "Tropical Paradise Resort",
+        "image": "https://img.freepik.com/premium-photo/tropical-paradise-resort_884296-224332.jpg",
+        "description": "Create unforgettable memories book your dream wedding with Tropical Paradise Resort",
+        "rating": "4.8",
+        "price": "150",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+    },
+    {
+        "id": "2",
+        "name": "Mountain Retreat Lodge",
+        "image": "https://www.travelandleisure.com/thmb/NmHjS-LKe4KEvuMydUd9j-7OB98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/stein-eriksen-lodge-park-city-utah_MTNRESORT1022-0ee0468515e346a98660ded1eb9db2dc.jpg",
+        "description": "Experience tranquility and breathtaking views at Mountain Retreat Lodge",
+        "rating": "4.7",
+        "price": "200",
+        "duration": "5",
+        "location": "Rocky Mountains",
+        "category": "Mountains"
+    },
+    {
+        "id": "3",
+        "name": "Desert Oasis Resort",
+        "image": "https://travelswithbibi.com/wp-content/uploads/2024/04/luxurious_desert_resorts_in_uae.jpg",
+        "description": "Enjoy luxury amidst stunning desert landscapes at Desert Oasis Resort",
+        "rating": "4.6",
+        "price": "180",
+        "duration": "4",
+        "location": "Sahara Desert",
+        "category": "Deserts"
+    },
+    {
+        "id": "4",
+        "name": "Island Escape Resort",
+        "image": "https://366e203a.rocketcdn.me/wp-content/uploads/2021/05/Soneva-Fushi.jpg",
+        "description": "A true paradise awaits you at Island Escape Resort, surrounded by pristine beaches",
+        "rating": "4.9",
+        "price": "220",
+        "duration": "6",
+        "location": "Caribbean Islands",
+        "category": "Beaches"
+    },
+    {
+        "id": "5",
+        "name": "Forest Hideaway",
+        "image": "https://repeattraveller.com/wp-content/uploads/2021/08/keemalahero.jpg",
+        "description": "Immerse yourself in nature at the secluded Forest Hideaway Resort",
+        "rating": "4.5",
+        "price": "130",
+        "duration": "2",
+        "location": "Amazon Rainforest",
+        "category": "Forests"
+    },
+    {
+        "id": "6",
+        "name": "Winter Wonderland Resort",
+        "image": "https://uk.newsonthesnow.com/news/wp-content/uploads/sites/13/2022/09/UK-The-UKs-favourite-ski-resorts-Does-yours-make-the-cut-_shutterstock_hero.jpg",
+        "description": "Discover a magical snowy escape at Winter Wonderland Resort, perfect for cozy getaways",
+        "rating": "4.8",
+        "price": "250",
+        "duration": "7",
+        "location": "Swiss Alps",
+        "category": "Mountains"
+    },
+    {
+        "id": "7",
+        "name": "Cityscape Luxury Hotel",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/bd/11/b1/wet-deck-day-view.jpg?w=700&h=-1&s=1",
+        "description": "Experience the height of urban sophistication at Cityscape Luxury Hotel",
+        "rating": "4.6",
+        "price": "300",
+        "duration": "2",
+        "location": "New York City",
+        "category": "Cities"
+    },
+    {
+        "id": "8",
+        "name": "Safari Adventure Lodge",
+        "image": "https://www.hospitalitycourses.co.za/gallery_gen/f2a6f2e8ecb5c78d3ac3ca19558f9d1c_fit.webp",
+        "description": "Embark on an unforgettable safari adventure at this luxurious lodge",
+        "rating": "4.9",
+        "price": "270",
+        "duration": "5",
+        "location": "Kenya",
+        "category": "Forests"
+    },
+    {
+        "id": "9",
+        "name": "Seaside Serenity Resort",
+        "image": "https://static.wanderon.in/wp-content/uploads/2023/09/untitled-design-2023-09-21t105050.452-min.png",
+        "description": "Relax by the tranquil ocean at Seaside Serenity Resort, a peaceful haven",
+        "rating": "4.7",
+        "price": "160",
+        "duration": "3",
+        "location": "Maldives",
+        "category": "Beaches"
+    },
+    {
+        "id": "10",
+        "name": "Ancient Ruins Retreat",
+        "image": "https://www.kayak.com/rimg/himg/6c/07/cb/leonardo-66714-163443325-623598.jpg?width=1366&height=768&crop=true",
+        "description": "Stay close to history at Ancient Ruins Retreat, nestled near historic wonders",
+        "rating": "4.6",
+        "price": "210",
+        "duration": "4",
+        "location": "Greece",
+        "category": "Cities"
+    }
+]
