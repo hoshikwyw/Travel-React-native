@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
     },
     headingTxt: {
         fontSize: 18,
-        fontWeight: 700,
+        fontWeight: "600",
         color: Colors.black
     },
     searchSectionWrapper: {
@@ -95,13 +95,14 @@ const styles = StyleSheet.create({
     searchBar: {
         flex: 1,
         flexDirection: "row",
+        alignItems: "center",
         backgroundColor: Colors.white,
-        padding: 16,
+        padding: 12,
         borderRadius: 10,
     },
     fillBtn: {
         backgroundColor: Colors.primaryColor,
-        padding: 12,
+        padding: 10,
         borderRadius: 10,
         marginLeft: 12,
     }
