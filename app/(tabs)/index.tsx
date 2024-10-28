@@ -5,6 +5,8 @@ import { Image, StyleSheet, Text, TextInput, TouchableOpacity, View } from "reac
 import {useHeaderHeight} from "@react-navigation/elements"
 import CategoryButton from "@/components/CategoryButton"
 import { useState } from "react"
+import Listings from "@/components/Listings"
+import ListingData from "@/data/destination.json"
 
 const Page = () => {
     const headerHeight = useHeaderHeight()
@@ -79,6 +81,7 @@ const Page = () => {
             </TouchableOpacity>
         </View>
         <CategoryButton onCategoryChange={onCategoryChange} />
+        <Listings listingData={ListingData} category={category} />
       </View>
         </>
     )
