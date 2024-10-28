@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "Holiday Travel Agency",
+        "image": "https://marketplace.canva.com/EAFWrIZxWB8/3/0/1600w/canva-blue-gradient-modern-travel-agency-instagram-post-jW9ku_sFsOk.jpg",
+        "rating": 4.7,
+        "reviews": 1450
+    },
+    {
+        "id": "2",
+        "name": "Global Adventure Tours",
+        "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-instagram-post-design-template-3fdb555daa7749713e1fb5e9b589f3dc_screen.jpg?ts=1653431702",
+        "rating": 4.8,
+        "reviews": 1680
+    },
+    {
+        "id": "3",
+        "name": "Luxury Escapes Co.",
+        "image": "https://i.pinimg.com/736x/d7/b7/0b/d7b70b4c4525b930a3af3558ac9011eb.jpg",
+        "rating": 4.9,
+        "reviews": 2035
+    },
+    {
+        "id": "4",
+        "name": "Sunshine Travel Experts",
+        "image": "https://i.pinimg.com/736x/68/a8/b9/68a8b976942aa0e02e3471da8889225b.jpg",
+        "rating": 4.6,
+        "reviews": 1200
+    },
+    {
+        "id": "5",
+        "name": "Mountain Peaks Agency",
+        "image": "https://hanoiexploretravel.com/wp-content/uploads/2023/05/travel-agents-in-viet-nam.jpeg",
+        "rating": 4.5,
+        "reviews": 980
+    },
+    {
+        "id": "6",
+        "name": "City Wanderers",
+        "image": "https://psd.zone/wp-content/uploads/2022/04/Travel-Agency-Flyer-Ads-Poster-PSD-Template-Preview-730x1024.jpg",
+        "rating": 4.8,
+        "reviews": 1560
+    },
+    {
+        "id": "7",
+        "name": "Voyage Vistas",
+        "image": "https://psd.zone/wp-content/uploads/2020/09/Travel-Agency-Promotion-Flyer-PSD-Preview-730x1024.jpg",
+        "rating": 4.7,
+        "reviews": 1300
+    },
+    {
+        "id": "8",
+        "name": "Dream Destination Planners",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ea8520147693467.62c6eff15f80a.png",
+        "rating": 4.9,
+        "reviews": 1890
+    },
+    {
+        "id": "9",
+        "name": "JourneyMakers",
+        "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-agency-poster-design-%281%29-template-e9e8118387588c1de585a11e6813f5ce_screen.jpg?ts=1657350994",
+        "rating": 4.6,
+        "reviews": 1105
+    },
+    {
+        "id": "10",
+        "name": "EcoTrails Travel",
+        "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/travel-agency-template-design-246273adf3a34fcb02402901fed7ed29_screen.jpg?ts=1636979867",
+        "rating": 4.8,
+        "reviews": 1520
+    }
+]
